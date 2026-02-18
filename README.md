@@ -1,16 +1,16 @@
 <h1>👋 Hey, I’m Sagar Jain </h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&width=435&lines=AI%2FML+Specialist;Full+Stack+Developer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&width=435&lines=AI%2FML+Specialist;Full+Stack+Developer;Dsa" alt="Typing SVG" />
 
 # About Me:
  
- AI/ML Enthusiast |  Data Science | Mern 
+ AI/ML Enthusiast |  Data Science | Web Development | 
 Passionate about building mern projects integerated with Ai , solving real-world problems, and contributing to **open-source & hackathons**.  
 
 ---
          
 # Connect with me                   
      
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sagar-jain-606a16234/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jainsagar22105@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-jain-606a16234/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jainsagar22105@gmail.com)
 
  ---
 
